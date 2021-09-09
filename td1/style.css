@@ -1,0 +1,24 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background: #AF4EE1;
+}
+
+h1{
+	color: #4EE1E0;
+}
+
+p span{
+	color: green;
+	font-weight: bold;
+	font-style: underline;
+}
+
+ #t1{
+	 color: purple;
+	 text-decoration: underline
+ }
+ 
+.rose{
+	color: pink;
+}
+

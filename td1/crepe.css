@@ -1,0 +1,26 @@
+body{
+	font-family: cursive;
+	background: #F0EEED;
+}
+
+.gras{
+	font-weight:  bold;
+}
+
+.orange{
+	color: #E0891C;
+}
+
+.cadrage{
+	width: 1300px;
+	height: 800px;
+	margin: 75px 300px 20px;
+}
+
+.decaler{
+	width: 1300px;
+	height: 800px;
+	margin: 75px 50px 20px;
+	background: green;
+}
+
